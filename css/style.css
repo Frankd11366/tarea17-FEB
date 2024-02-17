@@ -1,0 +1,54 @@
+body {
+    background-image: url(../images/codm-rank-guide.jpg);
+}
+
+h1{
+    font-size: 1.6cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 102, 0);
+    background-size: 2cm;
+}
+
+div{ 
+    text-align: center;
+    background-color: rgba(255, 170, 0, 0.754);
+    border: 1mm;
+    border-style: outset ;
+    border-color: grey;
+    border-width: 10px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h2{
+    font-size: 1.6cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: grey;
+    font-size: 800;
+}
+
+p{
+    font-size: 1cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+    background-color:slategray;
+    font-size: 800;
+}
+
+.nombre{
+    font-size: 1cm;
+    width: 15cm;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border-style: dashed ;
+    color: black;
+    background-color:gold;
+    font-size: 600;
+}
+
